@@ -1,4 +1,6 @@
-# hashcat-google-colab
+# Hashcat on google colab 
+### Free GPU usage
+
 
 Go to: https://colab.research.google.com/github/mikeleord/hashcat-google-colab/blob/master/hashcat-free-google.ipynb
 
