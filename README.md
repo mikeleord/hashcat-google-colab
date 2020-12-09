@@ -2,7 +2,9 @@
 
 Go to: https://colab.research.google.com/github/mikeleord/hashcat-google-colab/blob/master/hashcat-free-google.ipynb
 
-Click on Runtime, Change runtime type, and set Hardware accelerator to GPU.
+Click on Runtime, Change runtime type, and set Hardware accelerator to GPUv
+
+Enter your command
 
 Click on Runtime and then Run all.
 
