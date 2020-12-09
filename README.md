@@ -4,7 +4,7 @@ Go to: https://colab.research.google.com/github/mikeleord/hashcat-google-colab/b
 
 Click on Runtime, Change runtime type, and set Hardware accelerator to GPU.
 
-Come back to Google Colab, click on Runtime and then Run all.
+Click on Runtime and then Run all.
 
 thx
 
