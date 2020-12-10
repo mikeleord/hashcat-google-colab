@@ -1,4 +1,4 @@
-# Hashcat on google colab 
+# Hashcat Brute-Force on google colab 
 ### Free GPU usage
 
 
